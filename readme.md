@@ -2,6 +2,8 @@
 
 ## Participation Instructions
 - If interested in this project, post your GitHub username in the slack thread.
+- Everyone will have owner access to the organization to properly setup their projects.
+- Goal is for everyone to do things on their own.  If you ask for assistance you are the driver.  The person helping you is the navigator.  The navigator should not be changing any settings or inputting text of any sort for you.
 
 ## Study Group Participation
 - The "PROJECT" serves as an enriching complement to lectures and other study groups happening this week. I highly recommend that everyone attends study groups with Elizabeth or joins those organized by others.
